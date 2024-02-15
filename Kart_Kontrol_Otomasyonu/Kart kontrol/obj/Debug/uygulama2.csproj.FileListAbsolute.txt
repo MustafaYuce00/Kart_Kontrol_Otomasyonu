@@ -1,0 +1,10 @@
+D:\visual studio\uygulama2\uygulama2\bin\Debug\uygulama2.exe.config
+D:\visual studio\uygulama2\uygulama2\bin\Debug\uygulama2.exe
+D:\visual studio\uygulama2\uygulama2\bin\Debug\uygulama2.pdb
+D:\visual studio\uygulama2\uygulama2\obj\Debug\uygulama2.csproj.AssemblyReference.cache
+D:\visual studio\uygulama2\uygulama2\obj\Debug\uygulama2.Form1.resources
+D:\visual studio\uygulama2\uygulama2\obj\Debug\uygulama2.Properties.Resources.resources
+D:\visual studio\uygulama2\uygulama2\obj\Debug\uygulama2.csproj.GenerateResource.cache
+D:\visual studio\uygulama2\uygulama2\obj\Debug\uygulama2.csproj.CoreCompileInputs.cache
+D:\visual studio\uygulama2\uygulama2\obj\Debug\uygulama2.exe
+D:\visual studio\uygulama2\uygulama2\obj\Debug\uygulama2.pdb
